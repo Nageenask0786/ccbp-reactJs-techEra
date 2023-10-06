@@ -1,0 +1,31 @@
+.not-found-route {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #ffffff;
+  height: 100vh;
+}
+.image {
+  height: 60%;
+  width: 30%;
+  margin: 0px;
+  padding: 0px;
+}
+.not-found-heading {
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 6px;
+  padding-top: 20px;
+}
+
+.not-found-route-description {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-weight: 500;
+  font-size: 18px;
+  padding-top: 10px;
+  margin-top: 0px;
+}
